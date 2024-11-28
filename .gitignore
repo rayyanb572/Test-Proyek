@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pkl
+venv/
+temp_uploads/
+output_test/
+uploads/
